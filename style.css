@@ -11,7 +11,7 @@
 body {
   font-family: "Figtree", sans-serif;
   background-color: #f4d04e;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 .container {
